@@ -1,14 +1,12 @@
 # Producción de Contenidos de Aprendizaje
 ## Libro de Producción Objeto de Aprendizaje
 ==
+[Ultima Versión del Documento Entregable]{https://raw.githubusercontent.com/smonsalve/OA/master/OA.pdf}
 
 ## Estudiantes: 
 
 + Manuel Gómez
 + Sergio Monsalve
-
-[Ultima Versión del Documento Entregable]{https://raw.githubusercontent.com/smonsalve/OA/master/OA.pdf}
-
 ___
 
 **_Update 12/04/2014: 11.19pm_**
