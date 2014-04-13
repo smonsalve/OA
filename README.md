@@ -1,7 +1,7 @@
 # Producción de Contenidos de Aprendizaje
 ## Libro de Producción Objeto de Aprendizaje
 ==
-[Ultima Versión del Documento Entregable]{https://raw.githubusercontent.com/smonsalve/OA/master/OA.pdf}
+[Ultima Versión del Documento Entregable](https://raw.githubusercontent.com/smonsalve/OA/master/OA.pdf)
 
 ## Estudiantes: 
 
